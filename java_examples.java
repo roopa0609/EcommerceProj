@@ -57,6 +57,7 @@
 		anilAccount.setWithDraw(5000);
 		balance= anilAccount.getBalance();
 		System.out.println("Anil Balance = "+balance);
+		System.out.println("Anil Balance = "+balance2);
 
 	}
 
